@@ -30,7 +30,7 @@ This Business Intelligence dashboard has been deployed as an interactive web app
 
 | Platform | Link |
 |---|---|
-| 🌐 Live Dashboard | [View Live Dashboard](Livedashbord/zomato_live_dashboard.html)  |
+| 🌐 Live Dashboard | [View Live Dashboard](http://127.0.0.1:5500/Livedashbord/zomato_live_dashboard.html)  |
 | 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/Zomato-Banglore-Restaurants-Analysis) |
 | 📧 Contact | (mahishukla580@gmail.com) |
 
