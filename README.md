@@ -192,7 +192,7 @@ Price distribution · **Table booking star chart** (4.04 vs 3.45, t-test p<0.05)
 ### Page 5 — Market Strategy
 3-segment KPI cards · Segment rating comparison · Reviews per segment · Feature importance
 
-![Market Strategy](zomatoPowerBiDashbord/screenshot/page5.png)
+![Market Strategy](Dashboard/screenshot/page5.png)
 
 
 
