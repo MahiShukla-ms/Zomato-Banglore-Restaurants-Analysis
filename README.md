@@ -6,7 +6,7 @@
 **Real-time insights into restaurant performance, Customer Behavior, Location Analysis, Cuisines Analysis,  Business & Market Strategy**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla-921551272/)
-[![Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](http://127.0.0.1:5500/zomato_live_dashboard.html)
+[![Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](http://127.0.0.1:5500/Livedashbord/zomato_live_dashboard.html)
 [![Email](https://img.shields.io/badge/Contact-mahishukla580%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahishukla580@gmail.com)
 
 </div>
@@ -26,11 +26,13 @@ This project performs a **complete industry-level data analysis** of **7,105 res
 
 <div align="center">
 
+This Business Intelligence dashboard has been deployed as an interactive web application.
+
 | Platform | Link |
 |---|---|
-| 🖥️ Power BI Service | [View Live Dashboard](https://app.powerbi.com) *(publish and update link)* |
-| 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/Zomato-Banglore-Restaurants-Analysis) |
-| 📧 Contact | mahishukla580@gmail.com |
+| 🌐 Live Dashboard | [View Live Dashboard](http://127.0.0.1:5500/Livedashbord/zomato_live_dashboard.html)  |
+| 📁 GitHub Repository | [View Source Code](https://github.com/mahaishukla-2223333/Zomato-Banglore-Restaurants-Analysis) |
+| 📧 Contact | (mahishukla580@gmail.com) |
 
 </div>
 
@@ -155,17 +157,29 @@ Zomato-Bangalore-Analysis/
 ### Page 1 — Executive Overview
 KPI cards · Market segment donut · Rating histogram · Service adoption · Top 5 areas
 
+![Executive Overview](zomatoPowerBiDashbord/screenshot/page1.png)
+
 ### Page 2 — Location Analysis  
 Top 12 areas by rating (colour-coded) · Online adoption by area · Cost comparison · Bubble chart
+
+![Location Analysis](zomatoPowerBiDashbord/screenshot/page2.png)
 
 ### Page 3 — Cuisine Analysis
 North Indian vs South Indian insight · Rating by cuisine · Cost by cuisine · 85 unique cuisines
 
+![Cuisine Analysis](zomatoPowerBiDashbord/screenshot/page3.png)
+
 ### Page 4 — Price & Rating
 Price distribution · **Table booking star chart** (4.04 vs 3.45, t-test p<0.05) · Rating category breakdown
 
+![Price & Rating](zomatoPowerBiDashbord/screenshot/page4.png)
+
 ### Page 5 — Market Strategy
 3-segment KPI cards · Segment rating comparison · Reviews per segment · Feature importance
+
+![Market Strategy](zomatoPowerBiDashbord/screenshot/page5.png)
+
+
 
 ---
 
@@ -174,8 +188,8 @@ Price distribution · **Table booking star chart** (4.04 vs 3.45, t-test p<0.05)
 ### Python Notebooks
 ```bash
 # Clone the repository
-git clone https://github.com/mahishukla580/zomato-bangalore-analysis.git
-cd zomato-bangalore-analysis
+git clone https://github.com/MahiShukla-ms/Zomato-Banglore-Restaurants-Analysis.git
+cd zomato-Banglore-Restaurants-Analysis
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy jupyter
@@ -188,7 +202,7 @@ jupyter notebook
 
 ### Power BI Dashboard
 ```
-1. Download Zomato_BI_Dashboard.pbix from the Dashboard/ folder
+1. Download Zomato_BI_Dashboard.pbix from the  zomatoPowerBiDashbord/ folder
 2. Open in Power BI Desktop (free download from microsoft.com/powerbi)
 3. Update data source paths to point to your local Zomato_datasets/ folder
 4. Click Refresh — all 5 pages load with live data
@@ -216,9 +230,9 @@ jupyter notebook
 **Mahi Shukla**  
 *Aspiring Data Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla-921551272/)
 [![Gmail](https://img.shields.io/badge/Gmail-mahishukla580%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahishukla580@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahishukla580)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahaishukla-2223333)
 
 *If you found this project useful, please ⭐ star the repository!*
 
