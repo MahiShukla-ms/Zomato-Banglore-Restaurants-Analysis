@@ -119,10 +119,6 @@ This Business Intelligence dashboard has been deployed as an interactive web app
 │   ├── segment_performance.csv
 │   └── feature_importances.csv
 │
-│   │
-│   ├── 📊 zomato.pbix
-│   └── 📄 zomato.pdf
-│
 ├── 📜 README.md
 
 ```
