@@ -202,7 +202,7 @@ jupyter notebook
 
 ### Power BI Dashboard
 ```
-1. Download Zomato_BI_Dashboard.pbix from the Dashboard/ folder
+1. Download Zomato_BI_Dashboard.pbix from the  zomatoPowerBiDashbord/ folder
 2. Open in Power BI Desktop (free download from microsoft.com/powerbi)
 3. Update data source paths to point to your local Zomato_datasets/ folder
 4. Click Refresh — all 5 pages load with live data
