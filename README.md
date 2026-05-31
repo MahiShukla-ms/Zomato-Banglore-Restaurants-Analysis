@@ -1,4 +1,4 @@
-# 🍽️ Zomato Bangalore — Business Intelligence Dashboard
+# 🍽️ Zomato-Banglore-Restaurants-Analysis
 
 <div align="center">
 
