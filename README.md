@@ -230,7 +230,7 @@ jupyter notebook
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla)
 [![Gmail](https://img.shields.io/badge/Gmail-mahishukla580%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahishukla580@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahishukla580)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahaishukla-2223333)
 
 *If you found this project useful, please ⭐ star the repository!*
 
