@@ -170,7 +170,7 @@ North Indian vs South Indian insight · Rating by cuisine · Cost by cuisine · 
 ### Page 4 — Price & Rating
 Price distribution · **Table booking star chart** (4.04 vs 3.45, t-test p<0.05) · Rating category breakdown
 
-![Price & Rating](szomatoPowerBiDashbord/screenshot/page4.png)
+![Price & Rating](zomatoPowerBiDashbord/screenshot/page4.png)
 
 ### Page 5 — Market Strategy
 3-segment KPI cards · Segment rating comparison · Reviews per segment · Feature importance
