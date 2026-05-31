@@ -78,18 +78,15 @@ This Business Intelligence dashboard has been deployed as an interactive web app
 ## 🗂️ Project Structure
 
 ```
-Zomato-Bangalore-Analysis/
+📦 Zomato-Bangalore-Restaurants-Analysis
 │
-├── 📁 Zomato_datasets/
-│   ├── zomato.csv                    ← Original raw dataset (never modified)
-│   ├── zomato_cleaned.csv            ← After cleaning (notebook 02 output)
-│   ├── zomato_featured.csv           ← After feature engineering (notebook 03 output)
-│   ├── area_performance.csv          ← Area-level summary (notebook 10 output)
-│   ├── cuisine_performance.csv       ← Cuisine-level summary (notebook 10 output)
-│   ├── restaurant_segments.csv       ← Per-restaurant with cluster labels
-│   └── segment_performance.csv      ← Segment summary (KMeans 3 clusters)
+├── 📊 Livedashboard
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/
 │
-├── 📓 Notebooks/
+├── 📓 Notebooks
 │   ├── 01_data_understanding.ipynb   ← Shape, dtypes, missing values, basic stats
 │   ├── 02_data_cleaning.ipynb        ← Encoding fix, rename, missing values, duplicates
 │   ├── 03_feature_engineering.ipynb  ← Rating categories, cost tiers, cuisine features
@@ -102,10 +99,28 @@ Zomato-Bangalore-Analysis/
 │   ├── 10_advanced_analysis.ipynb    ← KMeans clustering, PCA, Random Forest
 │   └── 11_statistical_analysis.ipynb ← T-test, ANOVA, Chi-square, Cohen's d
 │
-├── 📊 Dashboard/
-│   └── Zomato_BI_Dashboard.pbix      ← Power BI dashboard (5 pages)
+├── 📂 Zomato_datasets
+│   ├── zomato_cleaned.csv
+│   ├── area_performance.csv
+│   ├── cuisine_performance.csv
+│   ├── restaurant_segments.csv
+│   ├── segment_performance.csv
+│   └── feature_importances.csv
 │
-└── README.md
+├── 📈 Dashboard
+│   │
+│   ├── 📸 screenshot
+│   │   ├── page1.png
+│   │   ├── page2.png
+│   │   ├── page3.png
+│   │   ├── page4.png
+│   │   └── page5.png
+│   │
+│   ├── 📊 zomato.pbix
+│   └── 📄 zomato.pdf
+│
+├── 📜 README.md
+
 ```
 
 ---
