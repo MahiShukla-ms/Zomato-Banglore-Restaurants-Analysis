@@ -80,13 +80,25 @@ This Business Intelligence dashboard has been deployed as an interactive web app
 ```
 📦 Zomato-Bangalore-Restaurants-Analysis
 │
+├── 📈 Dashboard
+│   │
+│   ├── 📸 screenshot
+│   │   ├── page1.png
+│   │   ├── page2.png
+│   │   ├── page3.png
+│   │   ├── page4.png
+│   │   └── page5.png
+│   │
+│   ├── 📊 zomato.pbix
+│   └── 📄 zomato.pdf
+|
 ├── 📊 Livedashboard
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
 │   └── assets/
 │
-├── 📓 Notebooks
+├── 📓 Notebook
 │   ├── 01_data_understanding.ipynb   ← Shape, dtypes, missing values, basic stats
 │   ├── 02_data_cleaning.ipynb        ← Encoding fix, rename, missing values, duplicates
 │   ├── 03_feature_engineering.ipynb  ← Rating categories, cost tiers, cuisine features
@@ -107,14 +119,6 @@ This Business Intelligence dashboard has been deployed as an interactive web app
 │   ├── segment_performance.csv
 │   └── feature_importances.csv
 │
-├── 📈 Dashboard
-│   │
-│   ├── 📸 screenshot
-│   │   ├── page1.png
-│   │   ├── page2.png
-│   │   ├── page3.png
-│   │   ├── page4.png
-│   │   └── page5.png
 │   │
 │   ├── 📊 zomato.pbix
 │   └── 📄 zomato.pdf
