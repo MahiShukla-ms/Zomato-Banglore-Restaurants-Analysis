@@ -155,7 +155,7 @@ Zomato-Bangalore-Analysis/
 ### Page 1 — Executive Overview
 KPI cards · Market segment donut · Rating histogram · Service adoption · Top 5 areas
 
-![Executive Overview](screenshot/page1.png)
+screenshot/page1.png
 
 ### Page 2 — Location Analysis  
 Top 12 areas by rating (colour-coded) · Online adoption by area · Cost comparison · Bubble chart
