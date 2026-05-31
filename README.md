@@ -188,8 +188,8 @@ Price distribution · **Table booking star chart** (4.04 vs 3.45, t-test p<0.05)
 ### Python Notebooks
 ```bash
 # Clone the repository
-git clone https://github.com/mahishukla580/zomato-bangalore-analysis.git
-cd zomato-bangalore-analysis
+git clone https://github.com/mahaishukla-2223333/Zomato-Banglore-Restaurants-Analysis.git
+cd zomato-Banglore-Restaurants-Analysis
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy jupyter
