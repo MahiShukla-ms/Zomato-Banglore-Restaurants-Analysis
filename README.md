@@ -30,7 +30,7 @@ This project performs a **complete industry-level data analysis** of **7,105 res
 |---|---|
 | 🖥️ Power BI Service | [View Live Dashboard](https://app.powerbi.com) *(publish and update link)* |
 | 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/Zomato-Banglore-Restaurants-Analysis) |
-| 📧 Contact |[Mail](mailto:mahishukla580@gmail.com) |
+| 📧 Contact | (mahishukla580@gmail.com) |
 
 </div>
 
