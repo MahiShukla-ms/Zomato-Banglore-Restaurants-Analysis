@@ -30,7 +30,7 @@ This project performs a **complete industry-level data analysis** of **7,105 res
 |---|---|
 | 🖥️ Power BI Service | [View Live Dashboard](https://app.powerbi.com) *(publish and update link)* |
 | 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/Zomato-Banglore-Restaurants-Analysis) |
-| 📧 Contact | (mahishukla580@gmail.com) |
+| 📧 Contact |[Mail](mailto:mahishukla580@gmail.com) |
 
 </div>
 
@@ -228,7 +228,7 @@ jupyter notebook
 **Mahi Shukla**  
 *Aspiring Data Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla-921551272/)
 [![Gmail](https://img.shields.io/badge/Gmail-mahishukla580%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahishukla580@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahaishukla-2223333)
 
