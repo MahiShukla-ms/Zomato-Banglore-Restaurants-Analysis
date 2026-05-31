@@ -26,9 +26,11 @@ This project performs a **complete industry-level data analysis** of **7,105 res
 
 <div align="center">
 
+This Business Intelligence dashboard has been deployed as an interactive web application.
+
 | Platform | Link |
 |---|---|
-| 🖥️ Power BI Service | [View Live Dashboard](https://app.powerbi.com) *(publish and update link)* |
+| 🌐 Live Dashboard | [View Live Dashboard](Livedashbord/zomato_live_dashboard.html)  |
 | 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/Zomato-Banglore-Restaurants-Analysis) |
 | 📧 Contact | (mahishukla580@gmail.com) |
 
