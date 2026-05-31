@@ -1,17 +1,12 @@
-# 🍽️ Zomato Bangalore — Business Intelligence Dashboard
+# 🍽️ Zomato-Banglore-Restaurants-Analysis
 
 <div align="center">
 
-![Zomato](https://img.shields.io/badge/Domain-Food%20Tech%20%7C%20Restaurant%20Analytics-E23744?style=for-the-badge&logo=zomato&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Notebooks](https://img.shields.io/badge/Jupyter-11%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-1D9E75?style=for-the-badge)
 
-**Real-time insights into restaurant performance, customer behavior, cuisine trends, and delivery analytics**
+**Real-time insights into restaurant performance, Customer Behavior, Location Analysis, Cuisines Analysis,  Business & Market Strategy**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla)
-[![Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#live-dashboard)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-shukla-921551272/)
+[![Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](http://127.0.0.1:5500/zomato_live_dashboard.html)
 [![Email](https://img.shields.io/badge/Contact-mahishukla580%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahishukla580@gmail.com)
 
 </div>
@@ -34,7 +29,7 @@ This project performs a **complete industry-level data analysis** of **7,105 res
 | Platform | Link |
 |---|---|
 | 🖥️ Power BI Service | [View Live Dashboard](https://app.powerbi.com) *(publish and update link)* |
-| 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/zomato-bangalore-analysis) |
+| 📁 GitHub Repository | [View Source Code](https://github.com/mahishukla580/Zomato-Banglore-Restaurants-Analysis) |
 | 📧 Contact | mahishukla580@gmail.com |
 
 </div>
