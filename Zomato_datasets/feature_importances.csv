@@ -1,0 +1,5 @@
+Feature,Importance
+num_ratings,0.7957189257417402
+avg_cost,0.1514566794219796
+has_online_order,0.035452057899736454
+has_table_booking,0.017372336936543636
